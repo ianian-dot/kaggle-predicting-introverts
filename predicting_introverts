@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "67f5de55",
+   "id": "026e9b06",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:50.470591Z",
-     "iopub.status.busy": "2025-07-30T15:15:50.470172Z",
-     "iopub.status.idle": "2025-07-30T15:15:52.411861Z",
-     "shell.execute_reply": "2025-07-30T15:15:52.410863Z"
+     "iopub.execute_input": "2025-07-30T15:25:01.649818Z",
+     "iopub.status.busy": "2025-07-30T15:25:01.649381Z",
+     "iopub.status.idle": "2025-07-30T15:25:03.577002Z",
+     "shell.execute_reply": "2025-07-30T15:25:03.575932Z"
     },
     "papermill": {
-     "duration": 1.95058,
-     "end_time": "2025-07-30T15:15:52.413357",
+     "duration": 1.936338,
+     "end_time": "2025-07-30T15:25:03.578520",
      "exception": false,
-     "start_time": "2025-07-30T15:15:50.462777",
+     "start_time": "2025-07-30T15:25:01.642182",
      "status": "completed"
     },
     "tags": []
@@ -56,19 +56,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "daf5ba73",
+   "id": "4c3eceb0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:52.425302Z",
-     "iopub.status.busy": "2025-07-30T15:15:52.424862Z",
-     "iopub.status.idle": "2025-07-30T15:15:52.474003Z",
-     "shell.execute_reply": "2025-07-30T15:15:52.473200Z"
+     "iopub.execute_input": "2025-07-30T15:25:03.590301Z",
+     "iopub.status.busy": "2025-07-30T15:25:03.589853Z",
+     "iopub.status.idle": "2025-07-30T15:25:03.636052Z",
+     "shell.execute_reply": "2025-07-30T15:25:03.635124Z"
     },
     "papermill": {
-     "duration": 0.057176,
-     "end_time": "2025-07-30T15:15:52.475716",
+     "duration": 0.053909,
+     "end_time": "2025-07-30T15:25:03.637889",
      "exception": false,
-     "start_time": "2025-07-30T15:15:52.418540",
+     "start_time": "2025-07-30T15:25:03.583980",
      "status": "completed"
     },
     "tags": []
@@ -82,19 +82,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "35137a96",
+   "id": "4ffb5ec1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:52.486951Z",
-     "iopub.status.busy": "2025-07-30T15:15:52.486639Z",
-     "iopub.status.idle": "2025-07-30T15:15:52.492772Z",
-     "shell.execute_reply": "2025-07-30T15:15:52.491955Z"
+     "iopub.execute_input": "2025-07-30T15:25:03.650176Z",
+     "iopub.status.busy": "2025-07-30T15:25:03.649834Z",
+     "iopub.status.idle": "2025-07-30T15:25:03.656230Z",
+     "shell.execute_reply": "2025-07-30T15:25:03.655376Z"
     },
     "papermill": {
-     "duration": 0.013778,
-     "end_time": "2025-07-30T15:15:52.494299",
+     "duration": 0.014387,
+     "end_time": "2025-07-30T15:25:03.657586",
      "exception": false,
-     "start_time": "2025-07-30T15:15:52.480521",
+     "start_time": "2025-07-30T15:25:03.643199",
      "status": "completed"
     },
     "tags": []
@@ -119,19 +119,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "60933e73",
+   "id": "8985f955",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:52.505165Z",
-     "iopub.status.busy": "2025-07-30T15:15:52.504855Z",
-     "iopub.status.idle": "2025-07-30T15:15:52.534915Z",
-     "shell.execute_reply": "2025-07-30T15:15:52.533753Z"
+     "iopub.execute_input": "2025-07-30T15:25:03.669108Z",
+     "iopub.status.busy": "2025-07-30T15:25:03.668795Z",
+     "iopub.status.idle": "2025-07-30T15:25:03.705469Z",
+     "shell.execute_reply": "2025-07-30T15:25:03.704341Z"
     },
     "papermill": {
-     "duration": 0.037233,
-     "end_time": "2025-07-30T15:15:52.536503",
+     "duration": 0.04463,
+     "end_time": "2025-07-30T15:25:03.707418",
      "exception": false,
-     "start_time": "2025-07-30T15:15:52.499270",
+     "start_time": "2025-07-30T15:25:03.662788",
      "status": "completed"
     },
     "tags": []
@@ -275,19 +275,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "4fda58e9",
+   "id": "24c94ce4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:52.547957Z",
-     "iopub.status.busy": "2025-07-30T15:15:52.547660Z",
-     "iopub.status.idle": "2025-07-30T15:15:52.554496Z",
-     "shell.execute_reply": "2025-07-30T15:15:52.553645Z"
+     "iopub.execute_input": "2025-07-30T15:25:03.726655Z",
+     "iopub.status.busy": "2025-07-30T15:25:03.725744Z",
+     "iopub.status.idle": "2025-07-30T15:25:03.734201Z",
+     "shell.execute_reply": "2025-07-30T15:25:03.733205Z"
     },
     "papermill": {
-     "duration": 0.014108,
-     "end_time": "2025-07-30T15:15:52.555845",
+     "duration": 0.019537,
+     "end_time": "2025-07-30T15:25:03.735781",
      "exception": false,
-     "start_time": "2025-07-30T15:15:52.541737",
+     "start_time": "2025-07-30T15:25:03.716244",
      "status": "completed"
     },
     "tags": []
@@ -320,19 +320,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "dbedefd2",
+   "id": "b5b869f1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:52.567159Z",
-     "iopub.status.busy": "2025-07-30T15:15:52.566853Z",
-     "iopub.status.idle": "2025-07-30T15:15:52.581979Z",
-     "shell.execute_reply": "2025-07-30T15:15:52.581092Z"
+     "iopub.execute_input": "2025-07-30T15:25:03.751246Z",
+     "iopub.status.busy": "2025-07-30T15:25:03.750947Z",
+     "iopub.status.idle": "2025-07-30T15:25:03.764382Z",
+     "shell.execute_reply": "2025-07-30T15:25:03.763416Z"
     },
     "papermill": {
-     "duration": 0.022643,
-     "end_time": "2025-07-30T15:15:52.583630",
+     "duration": 0.022041,
+     "end_time": "2025-07-30T15:25:03.765883",
      "exception": false,
-     "start_time": "2025-07-30T15:15:52.560987",
+     "start_time": "2025-07-30T15:25:03.743842",
      "status": "completed"
     },
     "tags": []
@@ -366,13 +366,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "32365e6f",
+   "id": "409b4c5c",
    "metadata": {
     "papermill": {
-     "duration": 0.004853,
-     "end_time": "2025-07-30T15:15:52.593738",
+     "duration": 0.005892,
+     "end_time": "2025-07-30T15:25:03.777238",
      "exception": false,
-     "start_time": "2025-07-30T15:15:52.588885",
+     "start_time": "2025-07-30T15:25:03.771346",
      "status": "completed"
     },
     "tags": []
@@ -384,19 +384,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "5aefeb08",
+   "id": "8b6d1408",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:52.605821Z",
-     "iopub.status.busy": "2025-07-30T15:15:52.605499Z",
-     "iopub.status.idle": "2025-07-30T15:15:52.987740Z",
-     "shell.execute_reply": "2025-07-30T15:15:52.986849Z"
+     "iopub.execute_input": "2025-07-30T15:25:03.789188Z",
+     "iopub.status.busy": "2025-07-30T15:25:03.788856Z",
+     "iopub.status.idle": "2025-07-30T15:25:04.245954Z",
+     "shell.execute_reply": "2025-07-30T15:25:04.244916Z"
     },
     "papermill": {
-     "duration": 0.390594,
-     "end_time": "2025-07-30T15:15:52.990022",
+     "duration": 0.465491,
+     "end_time": "2025-07-30T15:25:04.247869",
      "exception": false,
-     "start_time": "2025-07-30T15:15:52.599428",
+     "start_time": "2025-07-30T15:25:03.782378",
      "status": "completed"
     },
     "tags": []
@@ -438,13 +438,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "97b78250",
+   "id": "9b6f7222",
    "metadata": {
     "papermill": {
-     "duration": 0.005325,
-     "end_time": "2025-07-30T15:15:53.001222",
+     "duration": 0.006478,
+     "end_time": "2025-07-30T15:25:04.261127",
      "exception": false,
-     "start_time": "2025-07-30T15:15:52.995897",
+     "start_time": "2025-07-30T15:25:04.254649",
      "status": "completed"
     },
     "tags": []
@@ -460,19 +460,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "da5aea84",
+   "id": "465627b3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:53.013380Z",
-     "iopub.status.busy": "2025-07-30T15:15:53.013069Z",
-     "iopub.status.idle": "2025-07-30T15:15:53.022144Z",
-     "shell.execute_reply": "2025-07-30T15:15:53.021004Z"
+     "iopub.execute_input": "2025-07-30T15:25:04.276205Z",
+     "iopub.status.busy": "2025-07-30T15:25:04.275527Z",
+     "iopub.status.idle": "2025-07-30T15:25:04.284859Z",
+     "shell.execute_reply": "2025-07-30T15:25:04.283799Z"
     },
     "papermill": {
-     "duration": 0.01703,
-     "end_time": "2025-07-30T15:15:53.023678",
+     "duration": 0.018692,
+     "end_time": "2025-07-30T15:25:04.286466",
      "exception": false,
-     "start_time": "2025-07-30T15:15:53.006648",
+     "start_time": "2025-07-30T15:25:04.267774",
      "status": "completed"
     },
     "tags": []
@@ -501,19 +501,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "54c2e076",
+   "id": "912faa82",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:53.036836Z",
-     "iopub.status.busy": "2025-07-30T15:15:53.036097Z",
-     "iopub.status.idle": "2025-07-30T15:15:53.042597Z",
-     "shell.execute_reply": "2025-07-30T15:15:53.041659Z"
+     "iopub.execute_input": "2025-07-30T15:25:04.299985Z",
+     "iopub.status.busy": "2025-07-30T15:25:04.299587Z",
+     "iopub.status.idle": "2025-07-30T15:25:04.306462Z",
+     "shell.execute_reply": "2025-07-30T15:25:04.305445Z"
     },
     "papermill": {
-     "duration": 0.014424,
-     "end_time": "2025-07-30T15:15:53.044014",
+     "duration": 0.015099,
+     "end_time": "2025-07-30T15:25:04.307749",
      "exception": false,
-     "start_time": "2025-07-30T15:15:53.029590",
+     "start_time": "2025-07-30T15:25:04.292650",
      "status": "completed"
     },
     "tags": []
@@ -542,19 +542,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "5c4b627d",
+   "id": "f50c222e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:53.056692Z",
-     "iopub.status.busy": "2025-07-30T15:15:53.056375Z",
-     "iopub.status.idle": "2025-07-30T15:15:53.067749Z",
-     "shell.execute_reply": "2025-07-30T15:15:53.066743Z"
+     "iopub.execute_input": "2025-07-30T15:25:04.321533Z",
+     "iopub.status.busy": "2025-07-30T15:25:04.321257Z",
+     "iopub.status.idle": "2025-07-30T15:25:04.333848Z",
+     "shell.execute_reply": "2025-07-30T15:25:04.332603Z"
     },
     "papermill": {
-     "duration": 0.019676,
-     "end_time": "2025-07-30T15:15:53.069510",
+     "duration": 0.021455,
+     "end_time": "2025-07-30T15:25:04.335366",
      "exception": false,
-     "start_time": "2025-07-30T15:15:53.049834",
+     "start_time": "2025-07-30T15:25:04.313911",
      "status": "completed"
     },
     "tags": []
@@ -586,19 +586,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "8c90c39d",
+   "id": "f5b60322",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:53.082311Z",
-     "iopub.status.busy": "2025-07-30T15:15:53.082003Z",
-     "iopub.status.idle": "2025-07-30T15:15:53.098071Z",
-     "shell.execute_reply": "2025-07-30T15:15:53.097120Z"
+     "iopub.execute_input": "2025-07-30T15:25:04.349472Z",
+     "iopub.status.busy": "2025-07-30T15:25:04.349198Z",
+     "iopub.status.idle": "2025-07-30T15:25:04.365371Z",
+     "shell.execute_reply": "2025-07-30T15:25:04.364342Z"
     },
     "papermill": {
-     "duration": 0.024015,
-     "end_time": "2025-07-30T15:15:53.099420",
+     "duration": 0.025475,
+     "end_time": "2025-07-30T15:25:04.366918",
      "exception": false,
-     "start_time": "2025-07-30T15:15:53.075405",
+     "start_time": "2025-07-30T15:25:04.341443",
      "status": "completed"
     },
     "tags": []
@@ -626,13 +626,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ddc95c92",
+   "id": "4009b00b",
    "metadata": {
     "papermill": {
-     "duration": 0.00561,
-     "end_time": "2025-07-30T15:15:53.110794",
+     "duration": 0.005822,
+     "end_time": "2025-07-30T15:25:04.378861",
      "exception": false,
-     "start_time": "2025-07-30T15:15:53.105184",
+     "start_time": "2025-07-30T15:25:04.373039",
      "status": "completed"
     },
     "tags": []
@@ -644,19 +644,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "7cd4e70c",
+   "id": "c3ac084f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:53.123362Z",
-     "iopub.status.busy": "2025-07-30T15:15:53.123007Z",
-     "iopub.status.idle": "2025-07-30T15:15:53.129193Z",
-     "shell.execute_reply": "2025-07-30T15:15:53.128111Z"
+     "iopub.execute_input": "2025-07-30T15:25:04.392007Z",
+     "iopub.status.busy": "2025-07-30T15:25:04.391559Z",
+     "iopub.status.idle": "2025-07-30T15:25:04.397866Z",
+     "shell.execute_reply": "2025-07-30T15:25:04.396895Z"
     },
     "papermill": {
-     "duration": 0.013997,
-     "end_time": "2025-07-30T15:15:53.130491",
+     "duration": 0.014551,
+     "end_time": "2025-07-30T15:25:04.399313",
      "exception": false,
-     "start_time": "2025-07-30T15:15:53.116494",
+     "start_time": "2025-07-30T15:25:04.384762",
      "status": "completed"
     },
     "tags": []
@@ -681,19 +681,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "8c3db861",
+   "id": "a34c102c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:53.143442Z",
-     "iopub.status.busy": "2025-07-30T15:15:53.142903Z",
-     "iopub.status.idle": "2025-07-30T15:15:53.162794Z",
-     "shell.execute_reply": "2025-07-30T15:15:53.161799Z"
+     "iopub.execute_input": "2025-07-30T15:25:04.413267Z",
+     "iopub.status.busy": "2025-07-30T15:25:04.412940Z",
+     "iopub.status.idle": "2025-07-30T15:25:04.436103Z",
+     "shell.execute_reply": "2025-07-30T15:25:04.434909Z"
     },
     "papermill": {
-     "duration": 0.027983,
-     "end_time": "2025-07-30T15:15:53.164376",
+     "duration": 0.032016,
+     "end_time": "2025-07-30T15:25:04.437729",
      "exception": false,
-     "start_time": "2025-07-30T15:15:53.136393",
+     "start_time": "2025-07-30T15:25:04.405713",
      "status": "completed"
     },
     "tags": []
@@ -728,19 +728,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "1b529ade",
+   "id": "13eb198a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:53.177436Z",
-     "iopub.status.busy": "2025-07-30T15:15:53.177159Z",
-     "iopub.status.idle": "2025-07-30T15:15:56.409641Z",
-     "shell.execute_reply": "2025-07-30T15:15:56.408717Z"
+     "iopub.execute_input": "2025-07-30T15:25:04.451889Z",
+     "iopub.status.busy": "2025-07-30T15:25:04.451388Z",
+     "iopub.status.idle": "2025-07-30T15:25:07.574986Z",
+     "shell.execute_reply": "2025-07-30T15:25:07.574080Z"
     },
     "papermill": {
-     "duration": 3.240938,
-     "end_time": "2025-07-30T15:15:56.411520",
+     "duration": 3.132359,
+     "end_time": "2025-07-30T15:25:07.576569",
      "exception": false,
-     "start_time": "2025-07-30T15:15:53.170582",
+     "start_time": "2025-07-30T15:25:04.444210",
      "status": "completed"
     },
     "tags": []
@@ -808,19 +808,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "1eec60cb",
+   "id": "6ffe962d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:56.432482Z",
-     "iopub.status.busy": "2025-07-30T15:15:56.432046Z",
-     "iopub.status.idle": "2025-07-30T15:15:56.444237Z",
-     "shell.execute_reply": "2025-07-30T15:15:56.443383Z"
+     "iopub.execute_input": "2025-07-30T15:25:07.598960Z",
+     "iopub.status.busy": "2025-07-30T15:25:07.598113Z",
+     "iopub.status.idle": "2025-07-30T15:25:07.609530Z",
+     "shell.execute_reply": "2025-07-30T15:25:07.608651Z"
     },
     "papermill": {
-     "duration": 0.024128,
-     "end_time": "2025-07-30T15:15:56.445775",
+     "duration": 0.023936,
+     "end_time": "2025-07-30T15:25:07.611193",
      "exception": false,
-     "start_time": "2025-07-30T15:15:56.421647",
+     "start_time": "2025-07-30T15:25:07.587257",
      "status": "completed"
     },
     "tags": []
@@ -836,19 +836,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "787185b2",
+   "id": "13ff1ef0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:56.466588Z",
-     "iopub.status.busy": "2025-07-30T15:15:56.466260Z",
-     "iopub.status.idle": "2025-07-30T15:15:56.790560Z",
-     "shell.execute_reply": "2025-07-30T15:15:56.789534Z"
+     "iopub.execute_input": "2025-07-30T15:25:07.631740Z",
+     "iopub.status.busy": "2025-07-30T15:25:07.631392Z",
+     "iopub.status.idle": "2025-07-30T15:25:07.956479Z",
+     "shell.execute_reply": "2025-07-30T15:25:07.955069Z"
     },
     "papermill": {
-     "duration": 0.336991,
-     "end_time": "2025-07-30T15:15:56.792416",
+     "duration": 0.337706,
+     "end_time": "2025-07-30T15:25:07.958653",
      "exception": false,
-     "start_time": "2025-07-30T15:15:56.455425",
+     "start_time": "2025-07-30T15:25:07.620947",
      "status": "completed"
     },
     "tags": []
@@ -894,13 +894,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e4aefe78",
+   "id": "54eb730d",
    "metadata": {
     "papermill": {
-     "duration": 0.010037,
-     "end_time": "2025-07-30T15:15:56.814194",
+     "duration": 0.010211,
+     "end_time": "2025-07-30T15:25:07.979446",
      "exception": false,
-     "start_time": "2025-07-30T15:15:56.804157",
+     "start_time": "2025-07-30T15:25:07.969235",
      "status": "completed"
     },
     "tags": []
@@ -912,19 +912,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "99f83125",
+   "id": "a12d4be2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:56.835399Z",
-     "iopub.status.busy": "2025-07-30T15:15:56.835098Z",
-     "iopub.status.idle": "2025-07-30T15:15:57.428990Z",
-     "shell.execute_reply": "2025-07-30T15:15:57.427917Z"
+     "iopub.execute_input": "2025-07-30T15:25:08.002269Z",
+     "iopub.status.busy": "2025-07-30T15:25:08.001942Z",
+     "iopub.status.idle": "2025-07-30T15:25:08.543894Z",
+     "shell.execute_reply": "2025-07-30T15:25:08.542875Z"
     },
     "papermill": {
-     "duration": 0.606331,
-     "end_time": "2025-07-30T15:15:57.430527",
+     "duration": 0.555525,
+     "end_time": "2025-07-30T15:25:08.545674",
      "exception": false,
-     "start_time": "2025-07-30T15:15:56.824196",
+     "start_time": "2025-07-30T15:25:07.990149",
      "status": "completed"
     },
     "tags": []
@@ -942,19 +942,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "a000343e",
+   "id": "0b947d71",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:57.452440Z",
-     "iopub.status.busy": "2025-07-30T15:15:57.452125Z",
-     "iopub.status.idle": "2025-07-30T15:15:57.475665Z",
-     "shell.execute_reply": "2025-07-30T15:15:57.474705Z"
+     "iopub.execute_input": "2025-07-30T15:25:08.568338Z",
+     "iopub.status.busy": "2025-07-30T15:25:08.567997Z",
+     "iopub.status.idle": "2025-07-30T15:25:08.591168Z",
+     "shell.execute_reply": "2025-07-30T15:25:08.590040Z"
     },
     "papermill": {
-     "duration": 0.03662,
-     "end_time": "2025-07-30T15:15:57.477389",
+     "duration": 0.036599,
+     "end_time": "2025-07-30T15:25:08.593046",
      "exception": false,
-     "start_time": "2025-07-30T15:15:57.440769",
+     "start_time": "2025-07-30T15:25:08.556447",
      "status": "completed"
     },
     "tags": []
@@ -978,19 +978,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "88112030",
+   "id": "d7b0b6b4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:57.498854Z",
-     "iopub.status.busy": "2025-07-30T15:15:57.498491Z",
-     "iopub.status.idle": "2025-07-30T15:15:59.262820Z",
-     "shell.execute_reply": "2025-07-30T15:15:59.260722Z"
+     "iopub.execute_input": "2025-07-30T15:25:08.615280Z",
+     "iopub.status.busy": "2025-07-30T15:25:08.614916Z",
+     "iopub.status.idle": "2025-07-30T15:25:10.221120Z",
+     "shell.execute_reply": "2025-07-30T15:25:10.217898Z"
     },
     "papermill": {
-     "duration": 1.777253,
-     "end_time": "2025-07-30T15:15:59.264835",
+     "duration": 1.619324,
+     "end_time": "2025-07-30T15:25:10.222890",
      "exception": false,
-     "start_time": "2025-07-30T15:15:57.487582",
+     "start_time": "2025-07-30T15:25:08.603566",
      "status": "completed"
     },
     "tags": []
@@ -1041,37 +1041,309 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e563e841",
+   "id": "0c3d77f6",
    "metadata": {
     "papermill": {
-     "duration": 0.016259,
-     "end_time": "2025-07-30T15:15:59.297230",
+     "duration": 0.016524,
+     "end_time": "2025-07-30T15:25:10.257329",
      "exception": false,
-     "start_time": "2025-07-30T15:15:59.280971",
+     "start_time": "2025-07-30T15:25:10.240805",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "# Test submission"
+    "# 2: XBG with class weights\n",
+    "\n",
+    "to deal with imbalance of outcome"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "52c7c469",
+   "id": "ce739fde",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:59.332198Z",
-     "iopub.status.busy": "2025-07-30T15:15:59.331868Z",
-     "iopub.status.idle": "2025-07-30T15:15:59.363513Z",
-     "shell.execute_reply": "2025-07-30T15:15:59.362815Z"
+     "iopub.execute_input": "2025-07-30T15:25:10.293060Z",
+     "iopub.status.busy": "2025-07-30T15:25:10.292209Z",
+     "iopub.status.idle": "2025-07-30T15:25:10.747503Z",
+     "shell.execute_reply": "2025-07-30T15:25:10.746518Z"
     },
     "papermill": {
-     "duration": 0.051054,
-     "end_time": "2025-07-30T15:15:59.365618",
+     "duration": 0.474806,
+     "end_time": "2025-07-30T15:25:10.749097",
      "exception": false,
-     "start_time": "2025-07-30T15:15:59.314564",
+     "start_time": "2025-07-30T15:25:10.274291",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "XGBoost:\n",
+      "              precision    recall  f1-score   support\n",
+      "\n",
+      "           0       0.93      0.92      0.93       965\n",
+      "           1       0.97      0.98      0.97      2740\n",
+      "\n",
+      "    accuracy                           0.96      3705\n",
+      "   macro avg       0.95      0.95      0.95      3705\n",
+      "weighted avg       0.96      0.96      0.96      3705\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "from xgboost import XGBClassifier\n",
+    "\n",
+    "xgb = XGBClassifier(\n",
+    "    scale_pos_weight=(y_train == 0).sum() / (y_train == 1).sum(),  # balance classes\n",
+    "    use_label_encoder=False,\n",
+    "    eval_metric='logloss',\n",
+    "    random_state=42\n",
+    ")\n",
+    "\n",
+    "xgb.fit(X_train, y_train)\n",
+    "y_pred_xgb = xgb.predict(X_test)\n",
+    "\n",
+    "print(\"XGBoost:\")\n",
+    "print(classification_report(y_test, y_pred_xgb))\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "a9df3c48",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-30T15:25:10.772134Z",
+     "iopub.status.busy": "2025-07-30T15:25:10.771806Z",
+     "iopub.status.idle": "2025-07-30T15:25:26.236436Z",
+     "shell.execute_reply": "2025-07-30T15:25:26.235810Z"
+    },
+    "papermill": {
+     "duration": 15.478079,
+     "end_time": "2025-07-30T15:25:26.237887",
+     "exception": false,
+     "start_time": "2025-07-30T15:25:10.759808",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Fitting 5 folds for each of 20 candidates, totalling 100 fits\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<style>#sk-container-id-1 {color: black;background-color: white;}#sk-container-id-1 pre{padding: 0;}#sk-container-id-1 div.sk-toggleable {background-color: white;}#sk-container-id-1 label.sk-toggleable__label {cursor: pointer;display: block;width: 100%;margin-bottom: 0;padding: 0.3em;box-sizing: border-box;text-align: center;}#sk-container-id-1 label.sk-toggleable__label-arrow:before {content: \"▸\";float: left;margin-right: 0.25em;color: #696969;}#sk-container-id-1 label.sk-toggleable__label-arrow:hover:before {color: black;}#sk-container-id-1 div.sk-estimator:hover label.sk-toggleable__label-arrow:before {color: black;}#sk-container-id-1 div.sk-toggleable__content {max-height: 0;max-width: 0;overflow: hidden;text-align: left;background-color: #f0f8ff;}#sk-container-id-1 div.sk-toggleable__content pre {margin: 0.2em;color: black;border-radius: 0.25em;background-color: #f0f8ff;}#sk-container-id-1 input.sk-toggleable__control:checked~div.sk-toggleable__content {max-height: 200px;max-width: 100%;overflow: auto;}#sk-container-id-1 input.sk-toggleable__control:checked~label.sk-toggleable__label-arrow:before {content: \"▾\";}#sk-container-id-1 div.sk-estimator input.sk-toggleable__control:checked~label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 div.sk-label input.sk-toggleable__control:checked~label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 input.sk-hidden--visually {border: 0;clip: rect(1px 1px 1px 1px);clip: rect(1px, 1px, 1px, 1px);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;}#sk-container-id-1 div.sk-estimator {font-family: monospace;background-color: #f0f8ff;border: 1px dotted black;border-radius: 0.25em;box-sizing: border-box;margin-bottom: 0.5em;}#sk-container-id-1 div.sk-estimator:hover {background-color: #d4ebff;}#sk-container-id-1 div.sk-parallel-item::after {content: \"\";width: 100%;border-bottom: 1px solid gray;flex-grow: 1;}#sk-container-id-1 div.sk-label:hover label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 div.sk-serial::before {content: \"\";position: absolute;border-left: 1px solid gray;box-sizing: border-box;top: 0;bottom: 0;left: 50%;z-index: 0;}#sk-container-id-1 div.sk-serial {display: flex;flex-direction: column;align-items: center;background-color: white;padding-right: 0.2em;padding-left: 0.2em;position: relative;}#sk-container-id-1 div.sk-item {position: relative;z-index: 1;}#sk-container-id-1 div.sk-parallel {display: flex;align-items: stretch;justify-content: center;background-color: white;position: relative;}#sk-container-id-1 div.sk-item::before, #sk-container-id-1 div.sk-parallel-item::before {content: \"\";position: absolute;border-left: 1px solid gray;box-sizing: border-box;top: 0;bottom: 0;left: 50%;z-index: -1;}#sk-container-id-1 div.sk-parallel-item {display: flex;flex-direction: column;z-index: 1;position: relative;background-color: white;}#sk-container-id-1 div.sk-parallel-item:first-child::after {align-self: flex-end;width: 50%;}#sk-container-id-1 div.sk-parallel-item:last-child::after {align-self: flex-start;width: 50%;}#sk-container-id-1 div.sk-parallel-item:only-child::after {width: 0;}#sk-container-id-1 div.sk-dashed-wrapped {border: 1px dashed gray;margin: 0 0.4em 0.5em 0.4em;box-sizing: border-box;padding-bottom: 0.4em;background-color: white;}#sk-container-id-1 div.sk-label label {font-family: monospace;font-weight: bold;display: inline-block;line-height: 1.2em;}#sk-container-id-1 div.sk-label-container {text-align: center;}#sk-container-id-1 div.sk-container {/* jupyter's `normalize.less` sets `[hidden] { display: none; }` but bootstrap.min.css set `[hidden] { display: none !important; }` so we also need the `!important` here to be able to override the default hidden behavior on the sphinx rendered scikit-learn.org. See: https://github.com/scikit-learn/scikit-learn/issues/21755 */display: inline-block !important;position: relative;}#sk-container-id-1 div.sk-text-repr-fallback {display: none;}</style><div id=\"sk-container-id-1\" class=\"sk-top-container\"><div class=\"sk-text-repr-fallback\"><pre>RandomizedSearchCV(cv=5,\n",
+       "                   estimator=XGBClassifier(base_score=None, booster=None,\n",
+       "                                           callbacks=None,\n",
+       "                                           colsample_bylevel=None,\n",
+       "                                           colsample_bynode=None,\n",
+       "                                           colsample_bytree=None, device=None,\n",
+       "                                           early_stopping_rounds=None,\n",
+       "                                           enable_categorical=False,\n",
+       "                                           eval_metric=&#x27;logloss&#x27;,\n",
+       "                                           feature_types=None, gamma=None,\n",
+       "                                           grow_policy=None,\n",
+       "                                           importance_type=None,\n",
+       "                                           interaction_constraints=None,\n",
+       "                                           learning...\n",
+       "                                           min_child_weight=None, missing=nan,\n",
+       "                                           monotone_constraints=None,\n",
+       "                                           multi_strategy=None,\n",
+       "                                           n_estimators=None, n_jobs=None,\n",
+       "                                           num_parallel_tree=None,\n",
+       "                                           random_state=42, ...),\n",
+       "                   n_iter=20,\n",
+       "                   param_distributions={&#x27;colsample_bytree&#x27;: [0.8, 1.0],\n",
+       "                                        &#x27;learning_rate&#x27;: [0.05, 0.1, 0.2],\n",
+       "                                        &#x27;max_depth&#x27;: [3, 5, 7],\n",
+       "                                        &#x27;n_estimators&#x27;: [100, 200],\n",
+       "                                        &#x27;subsample&#x27;: [0.8, 1.0]},\n",
+       "                   random_state=42, scoring=&#x27;f1&#x27;, verbose=1)</pre><b>In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. <br />On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.</b></div><div class=\"sk-container\" hidden><div class=\"sk-item sk-dashed-wrapped\"><div class=\"sk-label-container\"><div class=\"sk-label sk-toggleable\"><input class=\"sk-toggleable__control sk-hidden--visually\" id=\"sk-estimator-id-1\" type=\"checkbox\" ><label for=\"sk-estimator-id-1\" class=\"sk-toggleable__label sk-toggleable__label-arrow\">RandomizedSearchCV</label><div class=\"sk-toggleable__content\"><pre>RandomizedSearchCV(cv=5,\n",
+       "                   estimator=XGBClassifier(base_score=None, booster=None,\n",
+       "                                           callbacks=None,\n",
+       "                                           colsample_bylevel=None,\n",
+       "                                           colsample_bynode=None,\n",
+       "                                           colsample_bytree=None, device=None,\n",
+       "                                           early_stopping_rounds=None,\n",
+       "                                           enable_categorical=False,\n",
+       "                                           eval_metric=&#x27;logloss&#x27;,\n",
+       "                                           feature_types=None, gamma=None,\n",
+       "                                           grow_policy=None,\n",
+       "                                           importance_type=None,\n",
+       "                                           interaction_constraints=None,\n",
+       "                                           learning...\n",
+       "                                           min_child_weight=None, missing=nan,\n",
+       "                                           monotone_constraints=None,\n",
+       "                                           multi_strategy=None,\n",
+       "                                           n_estimators=None, n_jobs=None,\n",
+       "                                           num_parallel_tree=None,\n",
+       "                                           random_state=42, ...),\n",
+       "                   n_iter=20,\n",
+       "                   param_distributions={&#x27;colsample_bytree&#x27;: [0.8, 1.0],\n",
+       "                                        &#x27;learning_rate&#x27;: [0.05, 0.1, 0.2],\n",
+       "                                        &#x27;max_depth&#x27;: [3, 5, 7],\n",
+       "                                        &#x27;n_estimators&#x27;: [100, 200],\n",
+       "                                        &#x27;subsample&#x27;: [0.8, 1.0]},\n",
+       "                   random_state=42, scoring=&#x27;f1&#x27;, verbose=1)</pre></div></div></div><div class=\"sk-parallel\"><div class=\"sk-parallel-item\"><div class=\"sk-item\"><div class=\"sk-label-container\"><div class=\"sk-label sk-toggleable\"><input class=\"sk-toggleable__control sk-hidden--visually\" id=\"sk-estimator-id-2\" type=\"checkbox\" ><label for=\"sk-estimator-id-2\" class=\"sk-toggleable__label sk-toggleable__label-arrow\">estimator: XGBClassifier</label><div class=\"sk-toggleable__content\"><pre>XGBClassifier(base_score=None, booster=None, callbacks=None,\n",
+       "              colsample_bylevel=None, colsample_bynode=None,\n",
+       "              colsample_bytree=None, device=None, early_stopping_rounds=None,\n",
+       "              enable_categorical=False, eval_metric=&#x27;logloss&#x27;,\n",
+       "              feature_types=None, gamma=None, grow_policy=None,\n",
+       "              importance_type=None, interaction_constraints=None,\n",
+       "              learning_rate=None, max_bin=None, max_cat_threshold=None,\n",
+       "              max_cat_to_onehot=None, max_delta_step=None, max_depth=None,\n",
+       "              max_leaves=None, min_child_weight=None, missing=nan,\n",
+       "              monotone_constraints=None, multi_strategy=None, n_estimators=None,\n",
+       "              n_jobs=None, num_parallel_tree=None, random_state=42, ...)</pre></div></div></div><div class=\"sk-serial\"><div class=\"sk-item\"><div class=\"sk-estimator sk-toggleable\"><input class=\"sk-toggleable__control sk-hidden--visually\" id=\"sk-estimator-id-3\" type=\"checkbox\" ><label for=\"sk-estimator-id-3\" class=\"sk-toggleable__label sk-toggleable__label-arrow\">XGBClassifier</label><div class=\"sk-toggleable__content\"><pre>XGBClassifier(base_score=None, booster=None, callbacks=None,\n",
+       "              colsample_bylevel=None, colsample_bynode=None,\n",
+       "              colsample_bytree=None, device=None, early_stopping_rounds=None,\n",
+       "              enable_categorical=False, eval_metric=&#x27;logloss&#x27;,\n",
+       "              feature_types=None, gamma=None, grow_policy=None,\n",
+       "              importance_type=None, interaction_constraints=None,\n",
+       "              learning_rate=None, max_bin=None, max_cat_threshold=None,\n",
+       "              max_cat_to_onehot=None, max_delta_step=None, max_depth=None,\n",
+       "              max_leaves=None, min_child_weight=None, missing=nan,\n",
+       "              monotone_constraints=None, multi_strategy=None, n_estimators=None,\n",
+       "              n_jobs=None, num_parallel_tree=None, random_state=42, ...)</pre></div></div></div></div></div></div></div></div></div></div>"
+      ],
+      "text/plain": [
+       "RandomizedSearchCV(cv=5,\n",
+       "                   estimator=XGBClassifier(base_score=None, booster=None,\n",
+       "                                           callbacks=None,\n",
+       "                                           colsample_bylevel=None,\n",
+       "                                           colsample_bynode=None,\n",
+       "                                           colsample_bytree=None, device=None,\n",
+       "                                           early_stopping_rounds=None,\n",
+       "                                           enable_categorical=False,\n",
+       "                                           eval_metric='logloss',\n",
+       "                                           feature_types=None, gamma=None,\n",
+       "                                           grow_policy=None,\n",
+       "                                           importance_type=None,\n",
+       "                                           interaction_constraints=None,\n",
+       "                                           learning...\n",
+       "                                           min_child_weight=None, missing=nan,\n",
+       "                                           monotone_constraints=None,\n",
+       "                                           multi_strategy=None,\n",
+       "                                           n_estimators=None, n_jobs=None,\n",
+       "                                           num_parallel_tree=None,\n",
+       "                                           random_state=42, ...),\n",
+       "                   n_iter=20,\n",
+       "                   param_distributions={'colsample_bytree': [0.8, 1.0],\n",
+       "                                        'learning_rate': [0.05, 0.1, 0.2],\n",
+       "                                        'max_depth': [3, 5, 7],\n",
+       "                                        'n_estimators': [100, 200],\n",
+       "                                        'subsample': [0.8, 1.0]},\n",
+       "                   random_state=42, scoring='f1', verbose=1)"
+      ]
+     },
+     "execution_count": 21,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "## hyperparam tuning \n",
+    "params = {\n",
+    "    'max_depth': [3, 5, 7],\n",
+    "    'learning_rate': [0.05, 0.1, 0.2],\n",
+    "    'n_estimators': [100, 200],\n",
+    "    'subsample': [0.8, 1.0],\n",
+    "    'colsample_bytree': [0.8, 1.0]\n",
+    "}\n",
+    "from sklearn.model_selection import RandomizedSearchCV\n",
+    "\n",
+    "search = RandomizedSearchCV(\n",
+    "    estimator=xgb,\n",
+    "    param_distributions=params,\n",
+    "    n_iter=20,\n",
+    "    scoring='f1',\n",
+    "    cv=5,\n",
+    "    verbose=1,\n",
+    "    random_state=42\n",
+    ")\n",
+    "search.fit(X_train, y_train)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "id": "6eb26183",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-30T15:25:26.265515Z",
+     "iopub.status.busy": "2025-07-30T15:25:26.264312Z",
+     "iopub.status.idle": "2025-07-30T15:25:26.270087Z",
+     "shell.execute_reply": "2025-07-30T15:25:26.269327Z"
+    },
+    "papermill": {
+     "duration": 0.021011,
+     "end_time": "2025-07-30T15:25:26.271591",
+     "exception": false,
+     "start_time": "2025-07-30T15:25:26.250580",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Best params: {'subsample': 1.0, 'n_estimators': 100, 'max_depth': 5, 'learning_rate': 0.05, 'colsample_bytree': 0.8}\n",
+      "Best F1 score: 0.9794219234599721\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Best params:\", search.best_params_)\n",
+    "print(\"Best F1 score:\", search.best_score_)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c11f584b",
+   "metadata": {
+    "papermill": {
+     "duration": 0.011407,
+     "end_time": "2025-07-30T15:25:26.294806",
+     "exception": false,
+     "start_time": "2025-07-30T15:25:26.283399",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "# Test submission -- log reg"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "bac44c18",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-30T15:25:26.319508Z",
+     "iopub.status.busy": "2025-07-30T15:25:26.319179Z",
+     "iopub.status.idle": "2025-07-30T15:25:26.361115Z",
+     "shell.execute_reply": "2025-07-30T15:25:26.360096Z"
+    },
+    "papermill": {
+     "duration": 0.056512,
+     "end_time": "2025-07-30T15:25:26.363014",
+     "exception": false,
+     "start_time": "2025-07-30T15:25:26.306502",
      "status": "completed"
     },
     "tags": []
@@ -1093,31 +1365,9 @@
     "X_kaggle = X_kaggle.drop('id', axis=1)\n",
     "\n",
     "## PREDICT USING TRAINED PIPELINE\n",
-    "y_kaggle_pred = pipe.predict(X_kaggle)\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 21,
-   "id": "8e9a0c4b",
-   "metadata": {
-    "execution": {
-     "iopub.execute_input": "2025-07-30T15:15:59.387635Z",
-     "iopub.status.busy": "2025-07-30T15:15:59.387294Z",
-     "iopub.status.idle": "2025-07-30T15:15:59.405704Z",
-     "shell.execute_reply": "2025-07-30T15:15:59.404822Z"
-    },
-    "papermill": {
-     "duration": 0.031352,
-     "end_time": "2025-07-30T15:15:59.407413",
-     "exception": false,
-     "start_time": "2025-07-30T15:15:59.376061",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [],
-   "source": [
+    "y_kaggle_pred = pipe.predict(X_kaggle)\n",
+    "\n",
+    "\n",
     "## convert back to string factors\n",
     "y_kaggle_labels = pd.Series(y_kaggle_pred).map({0: 'Introvert', 1: 'Extrovert'})\n",
     "\n",
@@ -1135,13 +1385,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "bb439935",
+   "id": "b3f65cbe",
    "metadata": {
     "papermill": {
-     "duration": 0.009684,
-     "end_time": "2025-07-30T15:15:59.427220",
+     "duration": 0.011195,
+     "end_time": "2025-07-30T15:25:26.386687",
      "exception": false,
-     "start_time": "2025-07-30T15:15:59.417536",
+     "start_time": "2025-07-30T15:25:26.375492",
      "status": "completed"
     },
     "tags": []
@@ -1185,14 +1435,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 14.750347,
-   "end_time": "2025-07-30T15:16:00.157316",
+   "duration": 30.525228,
+   "end_time": "2025-07-30T15:25:27.219834",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-07-30T15:15:45.406969",
+   "start_time": "2025-07-30T15:24:56.694606",
    "version": "2.6.0"
   }
  },
